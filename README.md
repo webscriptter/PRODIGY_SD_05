@@ -14,4 +14,4 @@ This Python script is designed for web scraping data from a website and saving t
 ## Technologies Used
 
 - **Programming Language:** Python
-- **Libraries Used:** BeautifulSoup, requests
+- **Libraries Used:** BeautifulSoup4, requests
